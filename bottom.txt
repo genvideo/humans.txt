@@ -1,0 +1,20 @@
+/* SITE */
+
+jQuery [http://jquery.com]
+AngularJS [https://angularjs.org]
+Bootstrap [http://getbootstrap.com]
+Font Awesome [https://fortawesome.github.io/Font-Awesome]
+Underscore.js [http://underscorejs.org]
+Modernizr [http://modernizr.com]
+Require.js [http://requirejs.org]
+
+/* UNDER THE HOOD */
+
+PHP [https://php.net]
+MySQL [http://mysql.com]
+Laravel [http://laravel.com]
+Grunt [http://gruntjs.com]
+Jenkins [https://jenkins-ci.org]
+
+Interested in joining the team? We're hiring!
+http://corp.expotv.com/about-us/?section=jobs

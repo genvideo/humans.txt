@@ -1,0 +1,97 @@
+
+         ██
+        ██████
+        █████████            █
+       ██████████████       ███
+       █████████████████    ████
+       ████████████████████ █████               ███████████
+      ████████████████████████████          ██████████████████
+      █████████████████████████████       ██████████████████████
+     ██████████████████████████████     ██████████████████████████
+     ███████████████████████████████  ████████████████████████████
+  ███         █████     █████     ███ █            ███████        ██
+ ██   ██████    ████      █     ███████   █████     ████    █████   ██
+ █   ████████   ██████        █████████   ██████    ███    ███████    █
+ █               ██████       ██████████  █████     ██     ███████    ██
+ █   ████████████████           █████████         █████     █████     ██
+ ██    ████    ████     ███       █████   ██████████████            ███
+  ███        █████████████████████████    ████████████████████   █████
+  █████████████████████████████████    ██████████████████████████████
+  ███████████████████████████████       █████████████████████████████
+                      ████████           ███████████████████████████
+                      ██████              ████████████████████████
+                      ████                 ██████████████████████
+                      ██                      ████████████████
+                                                  █████████
+/* TEAM */
+
+Exec
+====
+Bill [@bhil]
+Daphne [@daphnekwon]
+Jess [@jessicagnon]
+
+Product Managers
+================
+Brian [@sp00fer]
+Dan
+Jaynth
+Matt [@MattKivitz]
+
+Developers
+==========
+Bilal [@bilal_allawala]
+Carl [@CarlSubick]
+Eugene [@maddios69]
+Javier [@papajuanito]
+Joe [@HTMLbyJoe]
+Nick [@NickTraitouros]
+Paul [@pblakey]
+Rich [@richardmowatt1]
+
+Content
+=======
+Anna [@AnnaEBauer]
+Emily [@ERoss_Traveler]
+Nicole [@NKivitz]
+Teresa [@tmcantwell]
+
+Account Management
+==================
+Jeanine [@rnene]
+Rebecca [@rebeccalgreen]
+
+Sales
+=====
+Adam [@adamrpaul]
+Amy [@AmyJRuss]
+Christian [@cpimsner]
+Dana [@danasiegal]
+Gail [@gailkoerner]
+Seth [@sethfleischman]
+
+Sys Ops
+=======
+Kiryl
+
+
+/* SITE */
+
+jQuery [http://jquery.com]
+AngularJS [https://angularjs.org]
+Bootstrap [http://getbootstrap.com]
+Font Awesome [https://fortawesome.github.io/Font-Awesome]
+Underscore.js [http://underscorejs.org]
+Modernizr [http://modernizr.com]
+Require.js [http://requirejs.org]
+
+/* UNDER THE HOOD */
+
+PHP [https://php.net]
+MySQL [http://mysql.com]
+Laravel [http://laravel.com]
+Grunt [http://gruntjs.com]
+Jenkins [https://jenkins-ci.org]
+
+Interested in joining the team? We're hiring!
+http://corp.expotv.com/about-us/?section=jobs

@@ -28,19 +28,18 @@
 Exec
 ====
 Bill [@bhil]
+Brian [@sp00fer]
 Daphne [@daphnekwon]
 Jess [@jessicagnon]
 
 Product Managers
 ================
-Brian [@sp00fer]
 Dan
 Jaynth
 Matt [@MattKivitz]
 
 Developers
 ==========
-Bilal [@bilal_allawala]
 Carl [@CarlSubick]
 Eugene [@maddios69]
 Javier [@papajuanito]
@@ -65,10 +64,8 @@ Sales
 =====
 Adam [@adamrpaul]
 Amy [@AmyJRuss]
-Christian [@cpimsner]
 Dana [@danasiegal]
 Gail [@gailkoerner]
-Seth [@sethfleischman]
 
 Sys Ops
 =======

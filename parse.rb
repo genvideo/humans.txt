@@ -1,5 +1,5 @@
 require 'open-uri'
-yml_str = open('https://raw.githubusercontent.com/ExpoTV/Staff-Roster/master/_data/staff.yml').read;
+yml_str = open('https://raw.githubusercontent.com/ExpoTV/Staff-Roster/gh-pages/_data/staff.yml').read;
 
 require 'yaml'
 staff = YAML.load(yml_str)
